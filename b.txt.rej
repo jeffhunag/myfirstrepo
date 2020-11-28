@@ -1,0 +1,4 @@
+diff a/b.txt b/b.txt	(rejected hunks)
+@@ -0 +0 @@
+-test create test1 test2
++test create test1 test2 test4
